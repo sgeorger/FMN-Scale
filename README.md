@@ -1,6 +1,6 @@
 # Forget-Me-Not Scale
 
-This FMN Scale is a two part system involving a scale and a door alarm system. Simply plug in both systems and allow the scale to remain empty for 10 seconds to tare. The scale should be placed flat when it is plugged in in order to let it tare properly.
+The FMN Scale is a two part system involving a scale and a door alarm system. Simply plug in both systems and allow the scale to remain empty for 10 seconds to tare. The scale should be placed flat when it is plugged in in order to let it tare properly.
 
 After setup, place any item you don't want to forget to take with you on the scale, and the door alarm system will alert you if you try to leave home without your item.
 
